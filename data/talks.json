@@ -1,0 +1,45 @@
+
+[
+  {
+    "title": "The Future of JavaScript Frameworks",
+    "speakers": ["Jane Doe"],
+    "category": ["JavaScript", "WebDev", "Frontend"],
+    "duration": 60,
+    "description": "A deep dive into the trends and future of modern JavaScript frameworks, comparing and contrasting the most popular options."
+  },
+  {
+    "title": "Scalable Backend Architectures with Node.js",
+    "speakers": ["John Smith"],
+    "category": ["Node.js", "Backend", "Architecture"],
+    "duration": 60,
+    "description": "Learn how to design and build backend systems that can handle millions of users, using advanced Node.js techniques."
+  },
+  {
+    "title": "Mastering CSS Grid and Flexbox",
+    "speakers": ["Emily White", "Chris Green"],
+    "category": ["CSS", "Frontend", "Design"],
+    "duration": 60,
+    "description": "A hands-on workshop to master the modern CSS layout modules, Grid and Flexbox, for creating complex and responsive designs."
+  },
+  {
+    "title": "Introduction to Machine Learning with Python",
+    "speakers": ["Alan Turing"],
+    "category": ["Python", "AI", "Machine Learning"],
+    "duration": 60,
+    "description": "Get started with the exciting world of Machine Learning. This talk covers the basics of ML using Python and popular libraries."
+  },
+  {
+    "title": "DevOps for Developers: A Practical Guide",
+    "speakers": ["Grace Hopper"],
+    "category": ["DevOps", "CI/CD", "Cloud"],
+    "duration": 60,
+    "description": "This session demystifies DevOps, providing a practical roadmap for developers to implement CI/CD pipelines and improve deployment workflows."
+  },
+  {
+    "title": "The Art of Debugging",
+    "speakers": ["Sherlock Holmes"],
+    "category": ["General", "Debugging", "Productivity"],
+    "duration": 60,
+    "description": "Learn systematic and effective strategies to find and fix bugs faster, turning debugging from a chore into a skill."
+  }
+]
